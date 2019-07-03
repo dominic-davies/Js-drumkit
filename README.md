@@ -1,5 +1,7 @@
 # Js-drumkit
 
+![Image Description](javascript30.jpg)
+
 The first project from Wes Bos's #javascript30
 
 - Press the corresponding key on your keyboard
